@@ -52,7 +52,7 @@ Soledad Fernandez:
 
 ## 🔗 Links importantes
 
-<code>&lt;link&gt;</code> [Campus Unpaz](https://campusvirtual.unpaz.edu.ar/course/view.php?id=17289&section=9#tabs-tree-start "campus unpaz")
+<code>&lt;link&gt;</code> [Campus Unpaz](https://campusvirtual.unpaz.edu.ar/course/view.php?id=26026&section=0)
 
 <code>&lt;link&gt;</code> [Comandos Básicos para Github (Git)](https://imgv2-2-f.scribdassets.com/img/document/383529506/original/5e95e0c9e8/1717779687?v=1 "Comandos Básicos para Github (Git)")
 
