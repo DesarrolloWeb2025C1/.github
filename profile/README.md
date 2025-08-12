@@ -32,8 +32,8 @@ Ezequiel Igor:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/igor_.ezequiel) 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://goo.su/Qz8xPd8 ) 
 
-Débora Roldán:
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/deboroldan94?igsh=MWYxdGQzZ25zbzhlbw==)
+Soledad Fernandez:
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/msoledaad)
 
 
 ## 💻 Stack tecnológico:
